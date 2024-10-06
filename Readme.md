@@ -20,7 +20,6 @@ This repository is part of our Hacktoberfest celebration, where we encourage GDG
 
 Please organize your contributions in the following structure:
 
-```
 OpenCV / "Your-Name" /
 ├── face_detection/
 ├── car_detection/
